@@ -5,7 +5,7 @@
     
     <url>
     
-      <loc>http://smartape.github.io/tags/academic/</loc>
+      <loc>https://venivediveci.com/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -14,7 +14,7 @@
     
     <url>
     
-      <loc>http://smartape.github.io/publication/</loc>
+      <loc>https://venivediveci.com/tags/computer-vision/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -23,7 +23,7 @@
     
     <url>
     
-      <loc>http://smartape.github.io/talk/</loc>
+      <loc>https://venivediveci.com/publication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -32,7 +32,16 @@
     
     <url>
     
-      <loc>http://smartape.github.io/talk/example-talk/</loc>
+      <loc>https://venivediveci.com/talk/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://venivediveci.com/post/</loc>
       <lastmod>2017-01-01T00:00:00+08:00</lastmod>
     </url>
     
@@ -41,16 +50,7 @@
     
     <url>
     
-      <loc>http://smartape.github.io/post/</loc>
-      <lastmod>2017-01-01T00:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://smartape.github.io/project/deep-learning/</loc>
+      <loc>https://venivediveci.com/project/deep-learning/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -59,7 +59,7 @@
     
     <url>
     
-      <loc>http://smartape.github.io/project/example-external-project/</loc>
+      <loc>https://venivediveci.com/project/example-external-project/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -68,7 +68,7 @@
     
     <url>
     
-      <loc>http://smartape.github.io/post/getting-started/</loc>
+      <loc>https://venivediveci.com/post/getting-started/</loc>
       <lastmod>2018-01-13T00:00:00+08:00</lastmod>
     </url>
     
@@ -77,26 +77,8 @@
     
     <url>
     
-      <loc>http://smartape.github.io/publication/person-re-identification/</loc>
-      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://smartape.github.io/publication/clothing-search/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://smartape.github.io/publication_types/1/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+      <loc>https://venivediveci.com/tags/</loc>
+      <lastmod>2018-01-13T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -105,8 +87,7 @@
     
     <url>
     
-      <loc>http://smartape.github.io/publication_types/2/</loc>
-      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+      <loc>https://venivediveci.com/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -115,26 +96,7 @@
     
     <url>
     
-      <loc>http://smartape.github.io/</loc>
-      <lastmod>2017-10-15T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://smartape.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://smartape.github.io/tags/deep-learning/</loc>
+      <loc>https://venivediveci.com/tags/deep-learning/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -144,7 +106,17 @@
     
     <url>
     
-      <loc>http://smartape.github.io/tags/demo/</loc>
+      <loc>https://venivediveci.com/</loc>
+      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://venivediveci.com/project/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -154,8 +126,7 @@
     
     <url>
     
-      <loc>http://smartape.github.io/project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <loc>https://venivediveci.com/publication_types/</loc>
       <priority>0</priority>
     </url>
     
@@ -164,17 +135,7 @@
     
     <url>
     
-      <loc>http://smartape.github.io/publication_types/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://smartape.github.io/tags/</loc>
+      <loc>https://venivediveci.com/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
