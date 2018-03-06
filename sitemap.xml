@@ -5,6 +5,33 @@
     
     <url>
     
+      <loc>https://venivediveci.com/project/everyone-is-van-gogh/</loc>
+      <lastmod>2018-03-06T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://venivediveci.com/project/yolo-v1-implementation/</loc>
+      <lastmod>2018-03-06T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://venivediveci.com/project/resnet-keras-implementation/</loc>
+      <lastmod>2018-03-06T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://venivediveci.com/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -50,24 +77,6 @@
     
     <url>
     
-      <loc>https://venivediveci.com/project/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://venivediveci.com/project/example-external-project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://venivediveci.com/post/getting-started/</loc>
       <lastmod>2018-01-13T00:00:00+08:00</lastmod>
     </url>
@@ -97,7 +106,7 @@
     <url>
     
       <loc>https://venivediveci.com/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <lastmod>2018-03-06T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -116,8 +125,18 @@
     
     <url>
     
+      <loc>https://venivediveci.com/tags/object-detection/</loc>
+      <lastmod>2018-03-06T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://venivediveci.com/project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <lastmod>2018-03-06T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
